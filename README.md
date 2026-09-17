@@ -236,4 +236,4 @@ This repository serves as the official landing page for mp3DirectCut. The softwa
 **Get the most recent version of mp3DirectCut today!**
 
 ---
-**Last updated:** 2026-09-16 21:11:38 UTC
+**Last updated:** 2026-09-17 00:06:03 UTC
